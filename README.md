@@ -1,5 +1,4 @@
-Spiral Paint
-=============
+# Spiral Paint
 
 ![spiral](https://cloud.githubusercontent.com/assets/320747/10012017/f6891412-60b7-11e5-9d17-a5192d729674.png)
 
