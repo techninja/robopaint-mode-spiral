@@ -1,0 +1,27 @@
+{
+  "name": "robopaint-mode-spiral",
+  "version": "0.1.0",
+  "type": "robopaint_mode",
+  "main": "spiral.js",
+  "author": "techninja",
+  "license": "MIT",
+  "robopaint": {
+    "core": true,
+    "debug": true,
+    "i18n": "native",
+    "icon": "icon-print",
+    "index": "spiral.html",
+    "name": "spiral",
+    "opensvg": false,
+    "weight": 3,
+    "dependencies": [
+      "paper",
+      "jquery",
+      "underscore",
+      "mediasets"
+    ]
+  },
+  "dependencies": {
+    "datauri": "^0.7.1"
+  }
+}

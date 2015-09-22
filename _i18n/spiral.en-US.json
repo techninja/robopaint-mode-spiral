@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "creator": "techninja",
+    "target": "en-US",
+    "release": "0.9.5",
+    "basetype": "mode"
+  },
+  "info":{
+    "description": "Spiral paint a photo",
+    "title": "Spiral Paint",
+    "detail": "Automatically paint a photo as a spiral.",
+    "word": "Spiral"
+  },
+  "status": {
+    "confirm": "Are you sure you want to cancel the current spiral print?",
+    "printing": "Printing spiral image with dynamic height",
+    "cancelled": "Spiral paint spooling and printing cancelled."
+  },
+  "filepick": {
+    "button": "Choose Picture",
+    "title": "Select image for tracing",
+    "files": "Common web format images"
+  }
+}

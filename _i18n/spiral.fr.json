@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "release": "0.9.6",
+    "target": "fr",
+    "creator": "techninja via GoogleTranslate"
+  },
+  "info": {
+    "description": "Spiral peindre une photo",
+    "title": "Peinture Spiral",
+    "detail": "Peindre automatiquement une photo comme une spirale.",
+    "word": "Spiral"
+  },
+  "status": {
+    "confirm": "Êtes-vous sûr que vous voulez annuler l'impression actuelle spirale?",
+    "cancelled": "Spiral bobinage de peinture et d'impression annulées.",
+    "printing": "Impression d'image en spirale avec hauteur dynamique"
+  },
+  "filepick": {
+    "button": "Choisissez Image",
+    "title": "Sélectionner une image pour le traçage",
+    "files": "Les images au format web commune"
+  }
+}

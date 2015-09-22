@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "release": "0.9.6",
+    "target": "zh-CN",
+    "creator": "techninja via GoogleTranslate"
+  },
+  "info": {
+    "description": "螺旋画照片",
+    "title": "螺旋油漆",
+    "detail": "自动绘制一张照片作为螺旋。",
+    "word": "螺旋形的"
+  },
+  "status": {
+    "printing": "打印与动力高度螺旋图像",
+    "cancelled": "螺旋油漆后台打印和打印取消。",
+    "confirm": "要取消当前的螺旋打印吗？"
+  },
+  "filepick": {
+    "button": "选择图片",
+    "title": "追踪选择图片",
+    "files": "常见的网络格式的图片"
+  }
+}

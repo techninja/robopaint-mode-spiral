@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "release": "0.9.6",
+    "target": "es",
+    "creator": "techninja via GoogleTranslate"
+  },
+  "info": {
+    "description": "Espiral pintar una foto",
+    "title": "Pintura Espiral",
+    "detail": "Pintar automáticamente una foto como una espiral.",
+    "word": "Espiral"
+  },
+  "status": {
+    "printing": "Impresión de imagen Espiral con altura dinámica",
+    "confirm": "¿Seguro que quieres cancelar la impresión actual espiral?",
+    "cancelled": "Cola de pintura espiral e impresión cancelados."
+  },
+  "filepick": {
+    "button": "Elegir imagen",
+    "title": "Seleccionar imagen de rastreo",
+    "files": "Imágenes en formato web Común"
+  }
+}

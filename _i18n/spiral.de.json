@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "release": "0.9.6",
+    "target": "de",
+    "creator": "techninja via GoogleTranslate"
+  },
+  "info": {
+    "description": "Spiral malen ein Foto",
+    "title": "Spiral Farbe",
+    "detail": "Automatisch zu malen ein Foto als Spirale.",
+    "word": "Spiral"
+  },
+  "status": {
+    "cancelled": "Spiral Farbe Spooling und Drucken abgebrochen.",
+    "printing": "Drucken Wendelbild mit dynamischen Höhe",
+    "confirm": "Sind Sie sicher, dass Sie die aktuelle Spiraldruck abbrechen?"
+  },
+  "filepick": {
+    "button": "Wählen Sie Bild",
+    "title": "Bild für die Rückverfolgung Select",
+    "files": "Gemeinsame Web-Format Bilder"
+  }
+}
