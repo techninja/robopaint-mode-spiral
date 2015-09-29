@@ -135,7 +135,7 @@ function onKeyDown(event) {
 
 paper.pickSpiralImage = function() {
   mainWindow.dialog({
-    type: 'OpenDialog',
+    t: 'OpenDialog',
     title: mode.t('filepick.title'),
     filters: [
       { name: mode.t('filepick.files'), extensions: ['jpg', 'jpeg', 'gif', 'png'] }
