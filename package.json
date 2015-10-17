@@ -1,6 +1,6 @@
 {
   "name": "robopaint-mode-spiral",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "robopaint_mode",
   "main": "spiral.js",
   "author": "techninja",
@@ -9,7 +9,6 @@
     "core": true,
     "debug": true,
     "i18n": "native",
-    "icon": "icon-print",
     "index": "spiral.html",
     "name": "spiral",
     "opensvg": false,
@@ -19,7 +18,14 @@
       "jquery",
       "underscore",
       "mediasets"
-    ]
+    ],
+    "graphics": {
+      "icon": "images/spiral_icon.svg",
+      "previews": [
+        "images/spiral_preview_1.jpg",
+        "images/spiral_preview_2.jpg"
+      ]
+    }
   },
   "dependencies": {
     "datauri": "^0.7.1"
