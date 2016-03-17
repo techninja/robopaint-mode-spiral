@@ -1,7 +1,7 @@
 {
   "name": "robopaint-mode-spiral",
   "version": "0.2.2",
-  "type": "robopaint_mode",
+  "robopaint-type": "mode",
   "main": "spiral.js",
   "author": "techninja",
   "license": "MIT",
