@@ -1,6 +1,6 @@
 {
   "name": "robopaint-mode-spiral",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "robopaint-type": "mode",
   "main": "spiral.js",
   "author": "techninja",
