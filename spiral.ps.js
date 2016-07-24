@@ -92,10 +92,6 @@ paper.resetSpiral = function(callback) {
 
 // Automatically paint the single spiral path.
 paper.autoPaintSpiral = function(){
-  // Wait for all these commands to stream in before starting to actually
-  // run them. This ensures a smooth start.
-  robopaint.pauseTillEmpty(true);
-
   mode.run([
     'wash',
     ['media', 'color0'],

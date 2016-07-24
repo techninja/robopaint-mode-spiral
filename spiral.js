@@ -8,8 +8,7 @@ var buffer = {};
 var t = i18n.t; // The mother of all shortcuts
 var canvas = rpRequire('canvas');
 var dataURI = require('datauri'); // Save rasters as a single URI
-var remote = require('remote');
-var mainWindow = remote.getCurrentWindow();
+var mainWindow = require('electron').remote.getCurrentWindow();
 
 mode.pageInitReady = function () {
   // Initialize the paper.js canvas with wrapper margin and other settings.
@@ -23,7 +22,7 @@ mode.pageInitReady = function () {
       bottom: 40
     }
   });
-}
+};
 
 
 // Trigger load init resize only after paper has called this function.
